@@ -1,10 +1,10 @@
 # Finance-and-Sales-Analysis-Project
 
-1. [AtliQ Customer Sales Performance report](https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/FILE_PATH)
-2. [AtliQ Market Performance Report](https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/FILE_PATH)
-3. [Profit And Loss For Markets](https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/FILE_PATH)
-4. [P&L Fiscal Years](https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/FILE_PATH)
-5. [Customer Sales Report 2](https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/FILE_PATH)
+1. [Atliq Customer Sales Performance Report](https://raw.githubusercontent.com/Syamn17/Finance-and-Sales-Analysis-Project/main/Atliq%20Customet%20Sales%20Performance%20Report.png)
+2. [Atliq Market Performance Report](https://raw.githubusercontent.com/Syamn17/Finance-and-Sales-Analysis-Project/main/Atliq%20Market%20Performance%20Report.png)
+3. [P&L FOR MARKETS](https://raw.githubusercontent.com/Syamn17/Finance-and-Sales-Analysis-Project/main/P%26L%20FOR%20MARKETS.png)
+4. [P&L Fiscal Years](https://raw.githubusercontent.com/Syamn17/Finance-and-Sales-Analysis-Project/main/P%26L%20Fiscal%20Years.png)
+5. [Customer Sales Report](https://raw.githubusercontent.com/Syamn17/Finance-and-Sales-Analysis-Project/main/customer%20sales%20report.png)
 
 # **AtliQ Reports Project Overview**
 
