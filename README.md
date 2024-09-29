@@ -4,7 +4,8 @@
 2. [Atliq Market Performance Report](https://raw.githubusercontent.com/Syamn17/Finance-and-Sales-Analysis-Project/main/Atliq%20Market%20Performance%20Report.png)
 3. [P&L FOR MARKETS](https://raw.githubusercontent.com/Syamn17/Finance-and-Sales-Analysis-Project/main/P%26L%20FOR%20MARKETS.png)
 4. [P&L Fiscal Years](https://raw.githubusercontent.com/Syamn17/Finance-and-Sales-Analysis-Project/main/P%26L%20Fiscal%20Years.png)
-5. [Customer Sales Report](https://raw.githubusercontent.com/Syamn17/Finance-and-Sales-Analysis-Project/main/customer%20sales%20report.png)
+5. [AtliQ Profit and Loss Statement by Months](https://raw.githubusercontent.com/Syamn17/Finance-and-Sales-Analysis-Project/main/AtliQ%20Profit%20and%20Loss%20Statement%20by%20Months.pdf)
+6. [Customer Sales Report](https://raw.githubusercontent.com/Syamn17/Finance-and-Sales-Analysis-Project/main/customer%20sales%20report.png)
 
 # **AtliQ Reports Project Overview**
 
